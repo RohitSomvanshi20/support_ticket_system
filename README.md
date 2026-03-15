@@ -1,4 +1,4 @@
-  This section should list any major frameworks/libraries used to bootstrap your project.
+
 
 MongoDB Atlas Database. Deploy a multi-cloud database. The most advanced cloud database service on the market, with unmatched data distribution and mobility across AWS, Azure, and Google Cloud, built-in automation for resource and workload optimization, and so much more.
 MongoDB Compass Compass. The GUI for MongoDB. Compass is an interactive tool for querying, optimizing, and analyzing your MongoDB data. Get key insights, drag and drop to build pipelines, and more.
